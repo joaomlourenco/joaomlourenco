@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - I’m looking to collaborate on research (concurrency, operating systems)
 - I’m looking for help with my big (huge) LaTeX project [novathesis](https://novathesis.org)
 - Ask me about the Life, the Universe, and Everything Else
-- How to reach me: joao.lourenco@fct.unl.pt
+- How to reach me: joao.lourenco@fct.unl.pt or joao.lourenco@uninova.pt
 <!--
 - Pronouns: ...
 - Fun fact: ...
